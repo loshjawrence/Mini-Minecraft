@@ -14,10 +14,12 @@ This was a group project wherein I Implemented the terrain rendering, caves, and
 
 **View of Caves From Under the Terrain**<br />
 * [Caves video link](https://player.vimeo.com/video/239890456)
+* Low Quality GIF:
 ![](img/caves.gif)
 
 **View of Snow, ground cover, cloud formation, and fade out**<br />
 * [Snowcover video link](https://player.vimeo.com/video/239890456)
+* Low Quality GIF:
 ![](img/snowcover.gif)
 
 
