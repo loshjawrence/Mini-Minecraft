@@ -29,10 +29,14 @@ This was a group project wherein I Implemented the terrain rendering, caves, and
 <br />
 
 **View of Caves From Under the Terrain**<br />
-![](img/CAVES.flv)
+* [vimeo link](https://player.vimeo.com/video/239890456)
+<iframe src="https://player.vimeo.com/video/239890456" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+![](img/caves.gif)
 
 **View of Snow, ground cover, cloud formation, and fade out**<br />
-![](img/CAVES.flv)
+* [vimeo link](https://player.vimeo.com/video/239890456)
+<iframe src="https://player.vimeo.com/video/239890900" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+![](img/snowcover.gif)
 
 
 
