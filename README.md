@@ -4,7 +4,7 @@ Mini Minecraft Project**
 * Josh Lawrence
 
 **Overview**<br />
-This was a group project wherein I Implemented the terrain rendering, caves, and weather. 
+This was a group project wherein we implemented some Minecraft features and rendering from scratch. I did the terrain rendering, cave formation, and weather. 
 
 **Terrain**<br />
 <br />
